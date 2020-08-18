@@ -1,6 +1,11 @@
 hie this rushi,
 I am currently working on aws devops engineer 
 
-I have an existing travello application, I think in future we can try this to deploy in these production enviornment by using jenkins,ansible and AWS 
-OR else 
-we can also use a container like docker, Kubernetes and Azure cloud.
+I have an existing travello application, I think in future we can try this to deploy in these production enviornment by using 
+maven - bulid 
+Junit - test
+Ansible - deploy
+release - jenkins
+MOnitor - Nagios
+
+
