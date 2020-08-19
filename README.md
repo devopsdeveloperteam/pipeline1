@@ -1,4 +1,4 @@
 # Hi Team
+Lets make a simple to-do application
 
-		This is AJ
 
