@@ -14,11 +14,14 @@ updating contacted vendor list, option to update interview timings and i will al
 Programming Languages: HTML5, CSS, JAVASCRIPT, MYSQL, PHP.
 Hosting Through: APACHE (LOCAL HOST)
 Operating System: Linux(UBUNTU)
+DATABASE: MS SQL
 
 
 DEVOPS TOOLS
 
 CODE: Git
-BUILD:
-DEPLOY:
-MONITOR: 
+BUILD: Gradle, Maven
+DEPLOY: Puppet, Chef
+MONITOR: sensu, nagios
+
+FEEL FREE TO GIVE SUGGESTIONS TO IMPROVE MY WEBSITE IDEA. THANK YOU!!!
