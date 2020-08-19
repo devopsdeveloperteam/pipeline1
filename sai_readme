@@ -1,1 +1,7 @@
 let's create an web application for food recipes review rating
+
+
+code: git 
+build: maven
+CI/CD: jenkins
+Monitoring: splunk
