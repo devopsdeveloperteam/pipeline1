@@ -7,5 +7,5 @@ Junit - test
 Ansible - deploy
 release - jenkins
 MOnitor - Nagios
-
+cloud - aws
 
