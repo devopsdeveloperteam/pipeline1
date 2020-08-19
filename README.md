@@ -19,9 +19,9 @@ DATABASE: MS SQL
 
 DEVOPS TOOLS
 
-CODE: Git
-BUILD: Gradle, Maven
-DEPLOY: Puppet, Chef
-MONITOR: sensu, nagios
+CODE: Git.
+BUILD: Gradle, Maven.
+DEPLOY: Puppet, Chef.
+MONITOR: sensu, nagios.
 
 FEEL FREE TO GIVE SUGGESTIONS TO IMPROVE MY WEBSITE IDEA. THANK YOU!!!
